@@ -20,7 +20,7 @@ function Home() {
             <Typewriter
               options={{
                 strings: [
-                  'Web Developer Developer',
+                  'Web Developer | Python Programmer',
                   'Creative Coder'
                 ],
                 autoStart: true,

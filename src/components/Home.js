@@ -32,7 +32,8 @@ function Home() {
           </div>
 
           <motion.a
-            href="https://drive.google.com/file/d/13BS8SUTcrp4-ziy10y7J0UrY7LNc5LQ1/view?usp=drive_link"
+            // href="https://drive.google.com/file/d/13BS8SUTcrp4-ziy10y7J0UrY7LNc5LQ1/view?usp=drive_link"
+            href="https://drive.google.com/file/d/10xOuY4J8WVYktZpeiUKuCgn0McKo1NJP/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="resume-btn"
@@ -49,4 +50,3 @@ function Home() {
 }
 
 export default Home;
-
